@@ -85,7 +85,7 @@ int main(){
 
 	cout << "Rezultats = " << Total
 		<< " no 10" << endl;
-
+	system("pause");
 	return 0;
 }
 
